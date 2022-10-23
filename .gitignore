@@ -1,0 +1,8 @@
+venv/
+.vscode/
+*.pyc
+__pycache__/
+.idea/
+migrations
+db.sqlite3
+.idea/
